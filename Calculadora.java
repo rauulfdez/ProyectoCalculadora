@@ -13,4 +13,19 @@ public class Calculadora {
     public int suma() {
         return this.numero1 + this.numero2;
     }
+
+    // Método resta
+    public int resta() {
+        return this.numero1 - this.numero2;
+    }
+
+    // Método multiplicar
+    public int multiplicar() {
+        return this.numero1 * this.numero2;
+    }
+
+    // Método dividir
+    public int dividir() {
+        return this.numero1 / this.numero2;
+    }
 }
