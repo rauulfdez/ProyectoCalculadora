@@ -13,9 +13,4 @@ public class Calculadora {
     public int suma() {
         return this.numero1 + this.numero2;
     }
-
-    // Método resta
-    public int resta() {
-        return this.numero1 - this.numero2;
-    }
 }
